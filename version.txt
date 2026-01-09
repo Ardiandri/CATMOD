@@ -1,6 +1,1 @@
-1.0 CATMODS
-hjs
-bsj
-bsj
-hsjs
-hsks
+CATMODS 2.0
