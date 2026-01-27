@@ -1,5 +1,1 @@
-CATMODS 7.0
-haks
-hsjs
-hsjs
-hss
+8.0 CATMODS
