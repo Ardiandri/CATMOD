@@ -1,3 +1,1 @@
-5.1 CATMOD
-hsjs
-hs
+ CATMOD 5.2
