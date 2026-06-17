@@ -1,1 +1,4 @@
-8.0.0 CATMOD
+CATMOD 8.2.0
+bzmzl
+ndkd
+jddk
